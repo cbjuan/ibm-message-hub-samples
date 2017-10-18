@@ -1,5 +1,5 @@
 # ibm-message-hub-samples
-Examples on how to create message consumers & producers using IBM Message Hub 
+Examples on how to create message consumers & producers using IBM Message Hub. Coded in Python. Runs in local machine.
 
 This repo contains 3 files:
  * consumer.py -> This script run a consumer that listens to a Kafka topic using IBM Message Hub. It runs in forever using a ```while True``` loop.
